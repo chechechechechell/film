@@ -1,0 +1,26 @@
+<view class="contatiner">
+
+<view class="item-container">
+  <view class="cover-container" >
+     <text class="text">牛叉乞丐和富婆精彩对话,乞丐太有才了</text>
+     <image class="playbtn"src="/images/tab/video.png"></image>
+   </view>
+   <text class="bottom-text">街角转身 评论 24 </text>
+</view>
+
+<view class="item-container">
+  <view class="cover-container2" >
+     <text class="text">发哥走投无路,与狱警同归于尽</text>
+     <image class="playbtn"src="/images/tab/video.png"></image>
+   </view>
+   <text class="bottom-text">王者归来 评论 4 </text>
+</view>
+
+<view class="item-container">
+  <view class="cover-container3" >
+     <text class="text">过这减速带,只能乖乖慢行,不然直接把车截停</text>
+     <image class="playbtn"src="/images/tab/video.png"></image>
+   </view>
+   <text class="bottom-text">街角转身 评论 24 </text>
+</view>
+</view>

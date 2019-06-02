@@ -1,0 +1,43 @@
+<view class="container">
+
+	<view class="root-container1">
+		<view class="text-container1">
+			<text class="text-title1">习近平"两会"说</text>
+			<text class="text-date1">记录阳光 评论 668</text>
+		</view>
+		<view class="img-container1">
+			<image class="img-right1" src="/images/recommend/lianghui.jpg"></image>
+		</view>
+	</view>
+
+	<view class="root-container1">
+		<view class="text-container1">
+			<text class="text-title1">无视特朗普?罗格方德100亿美元来华建芯片厂</text>
+			<text class="text-date1">财华社 评论 227</text>
+		</view>
+		<view class="img-container1">
+			<image class="img-right1" src="/images/recommend/telangpu.jpg"></image>
+		</view>
+	</view>
+
+	<view class="root-container2">
+		<text class="text-title2">直到英大"抛弃妻子"终被捕,我才明白宋丹丹遭遇过什么!</text>
+		<view class="img-container2">
+			<image class="img3" src="/images/recommend/yingda1.jpg"></image>
+			<image class="img3" src="/images/recommend/yingda2.jpg"></image>
+			<image class="img3" src="/images/recommend/yingda3.jpg"></image>
+		</view>
+		<text class="text-date2">娱乐圈扒君 评论 3835</text>
+	</view>
+
+
+	<view class="root-container2">
+		<text class="text-title2">找不同问题:5题,能找出25处就是天才!我找到了26处,你呢?</text>
+		<view class="img-container2">
+			<image class="img3" src="/images/recommend/zhaobutong1.jpg"></image>
+			<image class="img3" src="/images/recommend/zhaobutong2.jpg"></image>
+			<image class="img3" src="/images/recommend/zhaobutong3.jpg"></image>
+		</view>
+		<text class="text-date2">智者由心 评论 281</text>
+	</view>
+</view>
